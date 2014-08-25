@@ -24,9 +24,9 @@ docpadConfig = {
             president : {
                 name: "Stu Harvey",
                 role: "President",
-                email: "stu@vt.edu",
+                email: "stu@acm.vt.edu",
                 picture: "/images/officers/stu_harvey.jpg",
-                bio: "Not as cool as he thinks he is"
+                bio: ""
             },
 
             vice_president : {
@@ -34,13 +34,13 @@ docpadConfig = {
                 role: "Vice President",
                 email: "rwhit94@vt.edu",
                 picture: "/images/officers/ryan_whitcomb.png",
-                bio: "Plays instruments or something"
+                bio: ""
             },
 
             treasurer : {
                 name: "Hunter Morgan",
                 role: "Treasure Hunter",
-                email: "automaticgiant@gmail.com",
+                email: "automaticgiant@acm.vt.edu",
                 picture: "/images/officers/hunter_morgan.jpg",
                 bio: "We call him the treasuridentmaster"
             },
