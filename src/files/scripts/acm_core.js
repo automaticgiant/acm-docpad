@@ -14,7 +14,7 @@
     limitations under the License.
 */
 var acmCore = (function (document) {
-    var calendarId = "vt.edu_gd2sbcgh98g7f7871t5i9j2fgo@group.calendar.google.com";
+    var calendarId = "qhnslp4268vflok2eunurnbg8o@group.calendar.google.com";
     var apiKey = "AIzaSyAx4gQ1Fzar0yc1LxOpJV3MuerouZCnz-4";
 
     /**
